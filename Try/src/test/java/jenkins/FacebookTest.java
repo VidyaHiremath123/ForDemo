@@ -12,7 +12,7 @@ public class FacebookTest  {
 	public void facebook() {
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver=new ChromeDriver();
-		System.getProperty("https://www.amazon.in/");
+		driver.get("https://www.amazon.in/");
 		
 		
 	}
