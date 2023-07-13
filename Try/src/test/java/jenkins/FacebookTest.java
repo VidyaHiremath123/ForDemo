@@ -10,11 +10,11 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class FacebookTest extends BaseClass {
 	@Test
 	public void facebook() {
-		WebDriverManager.chromedriver().setup();
-		WebDriver driver=new ChromeDriver();
-		driver.get("https://www.amazon.in/");
-		
-		
+//		WebDriverManager.chromedriver().setup();
+//		WebDriver driver=new ChromeDriver();
+//		driver.get("https://www.amazon.in/");
+//		
+//		
 	}
 
 }
