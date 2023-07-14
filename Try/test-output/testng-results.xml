@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-13T17:17:21 IST" name="Default suite" finished-at="2023-07-13T17:17:41 IST" duration-ms="19931">
+  <suite started-at="2023-07-14T11:01:09 IST" name="Default suite" finished-at="2023-07-14T11:02:15 IST" duration-ms="65154">
     <groups>
     </groups>
-    <test started-at="2023-07-13T17:17:21 IST" name="Default test" finished-at="2023-07-13T17:17:41 IST" duration-ms="19931">
+    <test started-at="2023-07-14T11:01:09 IST" name="Default test" finished-at="2023-07-14T11:02:15 IST" duration-ms="65154">
       <class name="jenkins.FacebookTest">
-        <test-method signature="facebook()[pri:0, instance:jenkins.FacebookTest@534a5a98]" started-at="2023-07-13T17:17:21 IST" name="facebook" finished-at="2023-07-13T17:17:41 IST" duration-ms="19851" status="PASS">
+        <test-method signature="facebook()[pri:0, instance:jenkins.FacebookTest@534a5a98]" started-at="2023-07-14T11:01:10 IST" name="facebook" finished-at="2023-07-14T11:02:15 IST" duration-ms="65059" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- facebook -->

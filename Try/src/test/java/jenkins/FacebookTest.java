@@ -17,8 +17,10 @@ public class FacebookTest  {
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.amazon.in/");
 		System.out.println("hello");
+		driver.close();
 		
 		
 	}
+
 
 }
